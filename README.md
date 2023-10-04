@@ -5,4 +5,6 @@
 🌱I'm currently learning FrontEnd Development
 💬Ask me about everything
 
-#🌐Socials:
+# 🌐Socials:
+
+https://www.instagram.com/rizo_adilov
