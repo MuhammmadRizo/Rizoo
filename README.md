@@ -7,4 +7,4 @@
 
 # 🌐Socials:
 
-https://www.instagram.com/rizo_adilov
+https://instagram.com/rizo_adilov
