@@ -10,27 +10,11 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300;400;500;700&display=swap" rel="stylesheet">
 
-<h1><a class="abouth1">💫About Me:</a></h1>
+<h1><a href="#">💫About Me:</a></h1>
 
-<p class="about-p">Hi, 👋 I'm @muhammad</p>
-<p style="color: red;" class="about-p">👀 I'm interested gaming 🎮 and developing 💻</p>
-<p class="about-p">🌱 I'm currently learning Frontend Developer</p>
-<p class="about-p">💬Ask me everything</p>
+<p style="font-weight: 20px; margin: 0; font-family: 'Martian Mono', monospace;">Hi,👋 I'm @muhammad</p>
+<p style="font-weight: 20px; margin: 0; font-family: 'Martian Mono', monospace;">👀 I'm interested gaming 🎮 and developing 💻</p>
+<p style="font-weight: 20px; margin: 0; font-family: 'Martian Mono', monospace;">🌱 I'm currently learning Frontend Developer</p>
+<p style="font-weight: 20px; margin: 0; font-family: 'Martian Mono', monospace;">💬Ask me everything</p>
 <br /> 
 <h1 style="">🌐 Socials:</h1>
-
-
-
-
-
-<style>
-    .abouth1 {
-        color: #368ff5;
-    }
-
-  .about-p {
-    font-weight: 20px;
-    margin: 0;
-    font-family: 'Martian Mono', monospace;
-  }
-</style>
