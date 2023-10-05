@@ -11,7 +11,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@300;400;500;700&display=swap" rel="stylesheet">
 
 <h1><a style="font-family: 'Roboto Mono', monospace;
-">💫About Me:</a></h1>
+ color: #368ff5;">💫About Me:</a></h1>
 
 <p class="about-p">Hi, 👋 I'm @muhammad</p>
 <p style="color: red;" class="about-p">👀 I'm interested gaming 🎮 and developing 💻</p>
